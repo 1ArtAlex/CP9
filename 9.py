@@ -1,4 +1,4 @@
-def plo():
+def ploshchad():
 	if S>=(2*K+2*R)**2:
 		print ("сцену вписать можно")
 	else:
@@ -13,5 +13,5 @@ try:
 except ValueError:
 	print ("введены некоректные данные")
 	exit()
-plo()
+ploshchad()
 
